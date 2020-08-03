@@ -1,7 +1,7 @@
 {
-  "name": "tokinar",
+  "name": "Webinar SMK Pembangunan Jaya",
   "version": "0.0.1",
-  "description": "Simple Webinar system based on OpenTok",
+  "description": "Webinar system based on OpenTok",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -22,7 +22,7 @@
     "opentok",
     "webrtc"
   ],
-  "author": "Kaustav Das Modak <kaustav.dasmodak@yahoo.co.in>",
+  "author": "Sepdullah S.Kom <sepdullah@gmail.com>",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/opentok/opentok-webinar/issues"
