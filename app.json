@@ -1,6 +1,6 @@
 {
-  "name": "Tokinar",
-  "description": "Simple Webinar application based on OpenTok.",
+  "name": "Webinar SMK Pembangunan Jaya",
+  "description": "Webinar application based on OpenTok.",
   "repository": "https://github.com/opentok/opentok-webinar",
   "keywords": ["webinar", "tokbox", "opentok", "webrtc"],
   "env": {
