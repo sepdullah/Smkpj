@@ -1,7 +1,7 @@
 {
-  "name": "Webinar SMK Pembangunan Jaya",
+  "name": "tokinar",
   "version": "0.0.1",
-  "description": "Webinar system based on OpenTok",
+  "description": "Simple Webinar system based on OpenTok",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/opentok/opentok-webinar.git"
+    "url": "git+https://github.com/kaustavdm/tokinar.git"
   },
   "engines": {
     "node": "6.9.x",
@@ -22,12 +22,12 @@
     "opentok",
     "webrtc"
   ],
-  "author": "Sepdullah S.Kom <sepdullah@gmail.com>",
+  "author": "Kaustav Das Modak <kaustav.dasmodak@yahoo.co.in>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/opentok/opentok-webinar/issues"
+    "url": "https://github.com/kaustavdm/tokinar/issues"
   },
-  "homepage": "https://github.com/opentok/opentok-webinar#readme",
+  "homepage": "https://github.com/kaustavdm/tokinar#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
     "cookie-parser": "^1.4.3",
@@ -37,4 +37,3 @@
     "opentok": "^2.4.0"
   },
   "cacheDirectories": ["node_modules", "storage" ]
-}
